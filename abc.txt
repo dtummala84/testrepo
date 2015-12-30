@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is my first commit on feature1 branch
 
+=======
+this is my first commit
+>>>>>>> feature2
